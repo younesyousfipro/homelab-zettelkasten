@@ -2,11 +2,16 @@
 
 Authentication verifies the identity of a subject.
 
-## Example
+It answers the question: "who are you?"
+
+## Examples
+
 - username/password
 - SSH key
 - token
+- certificate
 
 ## Related
+
 - [[authorization]]
 - [[rbac]]

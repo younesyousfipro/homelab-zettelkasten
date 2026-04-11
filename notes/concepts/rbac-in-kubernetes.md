@@ -25,10 +25,10 @@ Subject → Role / ClusterRole → Permissions → Resources → Scope
 
 ## Key components
 
-- [[role_k8s]] → permissions within a namespace  
-- [[cluster_role_k8s]] → permissions at cluster level  
-- [[role_binding_k8a]] → attaches a Role to a subject  
-- [[cluster_role_binding_k8s]] → attaches a ClusterRole globally  
+- [[role-kubernetes]] → permissions within a namespace  
+- [[clusterrole-kubernetes]] → permissions at cluster level  
+- [[rolebinding-kubernetes]] → attaches a Role to a subject  
+- [[clusterrolebinding-kubernetes]] → attaches a ClusterRole globally  
 
 ## Mental model
 
@@ -50,11 +50,12 @@ This defines read access to pods in a namespace.
 It becomes effective only when attached using a [[rolebinding-kubernetes]].
 
 ## Related
+
 	•	[[rbac]]
 	•	[[authentication]]
 	•	[[authorization]]
-	•	[[kubernetes verbs]]
-	•	[[kubernetes resources]]
+	•	[[kubernetes-verbs]]
+	•	[[kubernetes-resources]]
 	•	[[role-kubernetes]]
 	•	[[clusterrole-kubernetes]]
 	•	[[rolebinding-kubernetes]]

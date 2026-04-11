@@ -24,17 +24,17 @@ A RoleBinding can target:
 kubectl create rolebinding read-pods \
   --role=pod-reader \
   --user=dev-user
-  ```
-
+```
 This binds the pod-reader Role to the user dev-user in the current namespace.
 
 ## Mental model
 
 subject → RoleBinding → Role → permissions → resources
 
-Related
+## Related
+
 	•	[[role-kubernetes]]
 	•	[[clusterrolebinding-kubernetes]]
-	•	[[rbac in kubernetes]]
-	•	[[kubernetes verbs]]
-	•	[[kubernetes resources]]
+	•	[[rbac-in-kubernetes]]
+	•	[[kubernetes-verbs]]
+	•	[[kubernetes-resources]]

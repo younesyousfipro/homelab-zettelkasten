@@ -22,15 +22,17 @@ verbs = actions
 RBAC rule = "which actions on which objects"
 
 ## Important distinction
-	•	namespaced resources (pods, deployments, services)
-	•	cluster-wide resources (nodes, namespaces)
+
+- namespaced resources (pods, deployments, services)
+- cluster-wide resources (nodes, namespaces)
 
 This affects whether you use:
-	•	[[role-kubernetes]]
-	•	[[clusterrole-kubernetes]]
+- [[role-kubernetes]]
+- [[clusterrole-kubernetes]]
 
-Related
-	•	[[kubernetes verbs]]
-	•	[[rbac in kubernetes]]
-	•	[[role-kubernetes]]
-	•	[[clusterrole-kubernetes]]
+## Related
+
+- [[kubernetes-verbs]]
+- [[rbac-in-kubernetes]]
+- [[role-kubernetes]]
+- [[clusterrole-kubernetes]]

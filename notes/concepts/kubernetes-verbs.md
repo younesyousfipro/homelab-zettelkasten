@@ -21,5 +21,6 @@ resources = objects
 RBAC rule = "which actions on which objects"
 
 ## Related
-	•	[[kubernetes resources]]
-	•	[[rbac in kubernetes]]
+
+- [[kubernetes-resources]]
+- [[rbac-in-kubernetes]]

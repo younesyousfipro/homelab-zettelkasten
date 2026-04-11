@@ -3,10 +3,12 @@
 Users should only have the minimum permissions required to perform their tasks.
 
 ## Why it matters
+
 - reduces risk
 - limits blast radius
 - prevents accidental damage
 
 ## Related
+
 - [[rbac]]
-- [[security in devops]]
+- [[rbac-in-devops]]
