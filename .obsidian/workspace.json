@@ -11,10 +11,10 @@
             "id": "ce813fc1699de7bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -178,24 +178,37 @@
   },
   "active": "ce813fc1699de7bd",
   "lastOpenFiles": [
-    "Knowledge graph.md",
-    "notes/concepts/Knowledge graph.md",
-    "Zettelkasten workflow.md",
-    "notes/procedures/Zettelkasten workflow.md",
-    "notes/concepts/Atomic note.md",
-    "notes/concepts/Note linking.md",
-    "notes/concepts/Zettelkasten.md",
-    "README.md",
+    "notes/concepts/role_k8s.md",
+    "notes/concepts/role_binding_k8s.md",
+    "notes/concepts/RBAC_in_k8s.md",
+    "notes/concepts/cluster_role_k8s.md",
+    "notes/procedures/RBAC_homelab.md",
+    "notes/procedures/RBAC_example_k8s.md",
+    "notes/concepts/RBAC_usage_teams.md",
+    "notes/concepts/k8s_ressources.md",
+    "notes/concepts/k8s_verbs.md",
+    "notes/concepts/cluster_role_bindings_k8s.md",
+    "notes/concepts/role_binding_kubernetes.md",
+    "notes/concepts/cluster_role_kubernetes.md",
+    "notes/concepts/role_kubernetes.md",
+    "notes/concepts/role-kubernetes.md",
+    "notes/concepts/RBAC_in_Kubernetes.md",
+    "notes/concepts/Least_privilege_principle.md",
+    "notes/procedures/Zettelkasten_workflow.md",
+    "notes/concepts/Atomic_note.md",
+    "notes/concepts/Knowledge_graph.md",
+    "notes/concepts/Note_linking.md",
+    "notes/concepts/RBAC_in_DevOps.md",
+    "notes/concepts/Authentication.md",
+    "notes/concepts/Authorization.md",
+    "Untitled.md",
+    "notes/concepts/Untitled.md",
+    "notes/concepts/RBAC.md",
     "notes/maps",
     "notes/incidents",
     "notes/procedures",
     "notes/tools",
     "notes/concepts",
-    "notes",
-    "Note linking.md",
-    "Zettelkasten.md",
-    "Atomic note.md",
-    "Benefits of DevOps.md",
-    "Why DevOps matters.md"
+    "notes"
   ]
 }
