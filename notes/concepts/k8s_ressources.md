@@ -1,14 +1,36 @@
 # Kubernetes resources
 
-Resources are objects managed by the Kubernetes API.
+Resources are the objects managed by the Kubernetes API.
 
-## Examples
+They represent the state of the cluster.
+
+## Common resources
+
 - pods
 - deployments
 - services
-- secrets
 - configmaps
+- secrets
 - nodes
+- namespaces
 
-## Related
-- [[rbac in kubernetes]]
+## Mental model
+
+resources = objects  
+verbs = actions  
+
+RBAC rule = "which actions on which objects"
+
+## Important distinction
+	•	namespaced resources (pods, deployments, services)
+	•	cluster-wide resources (nodes, namespaces)
+
+This affects whether you use:
+	•	[[role-kubernetes]]
+	•	[[clusterrole-kubernetes]]
+
+Related
+	•	[[kubernetes verbs]]
+	•	[[rbac in kubernetes]]
+	•	[[role-kubernetes]]
+	•	[[clusterrole-kubernetes]]
