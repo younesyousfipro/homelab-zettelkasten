@@ -1,6 +1,8 @@
+# Atomic note
+
 An atomic note contains a single idea that can stand on its own.
 
-It should be:
+## Characteristics
 
 - concise
 - understandable without external context
@@ -10,6 +12,7 @@ It should be:
 
 - easier reuse
 - better connections between ideas
+- improves clarity of thinking
 
 ## Anti-pattern
 
@@ -18,4 +21,4 @@ It should be:
 ## Related
 
 - [[zettelkasten]]
-- [[note linking]]
+- [[note-linking]]

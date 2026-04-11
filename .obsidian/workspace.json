@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ced5fb2e662e290",
+        "id": "1d75e37cb48178e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ce813fc1699de7bd",
+            "id": "3d0dd5eedbfb3fa9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,12 +176,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce813fc1699de7bd",
+  "active": "3d0dd5eedbfb3fa9",
   "lastOpenFiles": [
+    "notes/concepts/when-to-create-a-note.md",
+    "Untitled.canvas",
+    "notes/procedures/zettelkasten-workflow.md",
+    "notes/concepts/knowledge-graph.md",
+    "notes/concepts/note-linking.md",
+    "notes/concepts/atomic-note.md",
+    "notes/concepts/zettelkasten.md",
+    "atomic note.md",
+    "notes/concepts/Zettelkasten.md",
+    "notes/concepts/cluster_role_k8s.md",
+    "notes/concepts/RBAC_in_k8s.md",
+    "role-kubernetes.md",
+    "rbac in kubernetes.md",
     "notes/concepts/role_k8s.md",
     "notes/concepts/role_binding_k8s.md",
-    "notes/concepts/RBAC_in_k8s.md",
-    "notes/concepts/cluster_role_k8s.md",
     "notes/procedures/RBAC_homelab.md",
     "notes/procedures/RBAC_example_k8s.md",
     "notes/concepts/RBAC_usage_teams.md",
@@ -194,16 +205,6 @@
     "notes/concepts/role-kubernetes.md",
     "notes/concepts/RBAC_in_Kubernetes.md",
     "notes/concepts/Least_privilege_principle.md",
-    "notes/procedures/Zettelkasten_workflow.md",
-    "notes/concepts/Atomic_note.md",
-    "notes/concepts/Knowledge_graph.md",
-    "notes/concepts/Note_linking.md",
-    "notes/concepts/RBAC_in_DevOps.md",
-    "notes/concepts/Authentication.md",
-    "notes/concepts/Authorization.md",
-    "Untitled.md",
-    "notes/concepts/Untitled.md",
-    "notes/concepts/RBAC.md",
     "notes/maps",
     "notes/incidents",
     "notes/procedures",
