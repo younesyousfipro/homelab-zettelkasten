@@ -67,6 +67,6 @@ octal mode = overwrite permissions
 
 ## Related
 
-	•	[[chmod]]
-	•	[[linux-file-permissions]]
-	•	[[linux-octal-permissions]]
+- [[linux-file-permissions]]
+- [[linux-octal-permissions]]
+- [[chmod]]

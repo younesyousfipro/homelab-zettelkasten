@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d75e37cb48178e7",
+        "id": "5c7a1c633fecd2c7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d0dd5eedbfb3fa9",
+            "id": "e6152c057e55472d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,10 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d0dd5eedbfb3fa9",
+  "active": "e6152c057e55472d",
   "lastOpenFiles": [
-    "notes/procedures/chmod-symbolic-mode.md",
+    "notes/concepts/role-kubernetes.md",
     "notes/procedures/chown.md",
+    "notes/procedures/chmod-symbolic-mode.md",
     "notes/procedures/chmod.md",
     "notes/concepts/linux-permission-patterns.md",
     "notes/concepts/chmod-symbolic-mode.md",
@@ -196,7 +197,6 @@
     "rolebinding-kubernetes.md",
     "notes/procedures/rbac-in-homelab.md",
     "notes/procedures/rbac-example-kubernetes.md",
-    "notes/concepts/role-kubernetes.md",
     "notes/concepts/ rolebinding-kubernetes.md",
     "notes/concepts/rbac.md",
     "notes/concepts/rbac-usage-in-teams.md",

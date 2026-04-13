@@ -22,5 +22,5 @@ chown -R user:group folder/
 
 ## Related
 
-	•	[[linux-users-and-groups]]
-	•	[[linux-access-control]]
+- [[linux-users-and-groups]]
+- [[linux-access-control]]
