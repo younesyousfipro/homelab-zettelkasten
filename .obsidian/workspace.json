@@ -178,6 +178,8 @@
   },
   "active": "e6152c057e55472d",
   "lastOpenFiles": [
+    "notes/maps/todo-notes.md",
+    "notes/maps/todo.md",
     "notes/tools/nginx-ingress-controller.md",
     "notes/tools/traefik.md",
     "notes/concepts/ingress-controller.md",
@@ -202,8 +204,6 @@
     "notes/procedures/rbac-in-homelab.md",
     "notes/procedures/rbac-example-kubernetes.md",
     "notes/concepts/ rolebinding-kubernetes.md",
-    "notes/concepts/rbac.md",
-    "notes/concepts/rbac-usage-in-teams.md",
     "Untitled.canvas",
     "notes/maps",
     "notes/incidents",
