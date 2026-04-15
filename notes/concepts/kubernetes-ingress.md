@@ -78,6 +78,5 @@ Ingress controller = execution (makes it happen)
 
 ## Related
 
-•	[[kubernetes]]
 •	[[ingress-controller]]
 •	[[rbac-in-kubernetes]]

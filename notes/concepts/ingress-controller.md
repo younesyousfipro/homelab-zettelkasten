@@ -44,5 +44,4 @@ Ingress controller is the runtime
 ## Related
 
 - [[kubernetes-ingress]]
-- [[kubernetes]]
 - [[linux-access-control]]

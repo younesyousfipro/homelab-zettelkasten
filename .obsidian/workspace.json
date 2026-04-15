@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c7a1c633fecd2c7",
+        "id": "2332c06bc471502e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6152c057e55472d",
+            "id": "72ade47d0d745574",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,14 +176,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e6152c057e55472d",
+  "active": "72ade47d0d745574",
   "lastOpenFiles": [
-    "notes/maps/todo-notes.md",
-    "notes/maps/todo.md",
-    "notes/tools/nginx-ingress-controller.md",
-    "notes/tools/traefik.md",
     "notes/concepts/ingress-controller.md",
     "notes/concepts/kubernetes-ingress.md",
+    "kubernetes.md",
+    "notes/tools/nginx-ingress-controller.md",
+    "notes/maps/todo-notes.md",
+    "notes/maps/todo.md",
+    "notes/tools/traefik.md",
     "notes/concepts/role-kubernetes.md",
     "notes/procedures/chown.md",
     "notes/procedures/chmod-symbolic-mode.md",
@@ -203,7 +204,6 @@
     "rolebinding-kubernetes.md",
     "notes/procedures/rbac-in-homelab.md",
     "notes/procedures/rbac-example-kubernetes.md",
-    "notes/concepts/ rolebinding-kubernetes.md",
     "Untitled.canvas",
     "notes/maps",
     "notes/incidents",
