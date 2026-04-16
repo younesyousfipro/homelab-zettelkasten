@@ -8,3 +8,9 @@ nodePort
 clusterip
 loadbalancer
 
+diverse:
+
+iac
+terraform
+ansible
+cicd
