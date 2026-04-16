@@ -29,3 +29,4 @@ Traefik is installed by default as the ingress controller.
 
 - [[ingress-controller]]
 - [[kubernetes-ingress]]
+- [[k3s]]
