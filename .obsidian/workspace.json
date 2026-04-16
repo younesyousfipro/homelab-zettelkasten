@@ -178,6 +178,7 @@
   },
   "active": "72ade47d0d745574",
   "lastOpenFiles": [
+    "notes/concepts/root-user.md",
     "notes/concepts/ingress-controller.md",
     "notes/concepts/kubernetes-ingress.md",
     "kubernetes.md",
@@ -203,7 +204,6 @@
     "notes/concepts/rolebinding-kubernetes.md",
     "rolebinding-kubernetes.md",
     "notes/procedures/rbac-in-homelab.md",
-    "notes/procedures/rbac-example-kubernetes.md",
     "Untitled.canvas",
     "notes/maps",
     "notes/incidents",
