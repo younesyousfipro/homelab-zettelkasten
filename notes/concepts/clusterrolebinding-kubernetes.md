@@ -17,10 +17,10 @@ A ClusterRoleBinding does not define permissions by itself. It links a subject t
 kubectl create clusterrolebinding admin-binding \
   --clusterrole=cluster-admin \
   --user=admin-user
-  ```
+```
 
-  ## Related
+## Related
 
-  	•	[[clusterrole-kubernetes]]
-	•	[[rolebinding-kubernetes]]
-	•	[[rbac-in-kubernetes]]
+• [[clusterrole-kubernetes]]
+• [[rolebinding-kubernetes]]
+• [[rbac-in-kubernetes]]

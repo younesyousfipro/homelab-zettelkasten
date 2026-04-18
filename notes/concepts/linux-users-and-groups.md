@@ -11,6 +11,7 @@ Check current user:
 ```bash
 whoami
 ```
+
 ## Groups
 
 Groups allow multiple users to share permissions.
@@ -30,15 +31,16 @@ sudo usermod -aG dev user
 ## Ownership
 
 Each file has:
-	•	one owner user
-	•	one owner group
+• one owner user
+• one owner group
 
 Check ownership:
 
 ```bash
 ls -l
 ```
+
 ## Related
 
-	•	[[linux-access-control]]
-	•	[[chown]]
+    •	[[linux-access-control]]
+    •	[[chown]]

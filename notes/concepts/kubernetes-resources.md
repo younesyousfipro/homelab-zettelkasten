@@ -17,7 +17,7 @@ They represent the state of the cluster.
 ## Mental model
 
 resources = objects  
-verbs = actions  
+verbs = actions
 
 RBAC rule = "which actions on which objects"
 
@@ -27,6 +27,7 @@ RBAC rule = "which actions on which objects"
 - cluster-wide resources (nodes, namespaces)
 
 This affects whether you use:
+
 - [[role-kubernetes]]
 - [[clusterrole-kubernetes]]
 

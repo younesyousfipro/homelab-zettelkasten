@@ -16,7 +16,7 @@ They are used in RBAC rules to specify allowed operations.
 ## Mental model
 
 verbs = actions  
-resources = objects  
+resources = objects
 
 RBAC rule = "which actions on which objects"
 

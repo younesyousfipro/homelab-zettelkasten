@@ -33,12 +33,7 @@ Client → Ingress → Service → Pod
 
 Ingress acts as an entry point that routes traffic to services based on rules.
 
-Step by step:
-	1.	client sends request (browser, curl)
-	2.	request hits the ingress endpoint
-	3.	ingress checks rules (host / path)
-	4.	forwards request to the correct service
-	5.	service routes to a pod
+Step by step: 1. client sends request (browser, curl) 2. request hits the ingress endpoint 3. ingress checks rules (host / path) 4. forwards request to the correct service 5. service routes to a pod
 
 ## Example (conceptual)
 
@@ -47,15 +42,15 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 spec:
   rules:
-  - host: my-app.local
-    http:
-      paths:
-      - path: /
-        backend:
-          service:
-            name: my-service
-            port:
-              number: 80
+    - host: my-app.local
+      http:
+        paths:
+          - path: /
+            backend:
+              service:
+                name: my-service
+                port:
+                  number: 80
 ```
 
 ## Important
@@ -71,12 +66,12 @@ Ingress controller = execution (makes it happen)
 
 ## Use cases
 
-•	expose web applications
-•	route multiple services behind one IP
-•	handle TLS (HTTPS)
-•	domain-based routing
+• expose web applications
+• route multiple services behind one IP
+• handle TLS (HTTPS)
+• domain-based routing
 
 ## Related
 
-•	[[ingress-controller]]
-•	[[rbac-in-kubernetes]]
+• [[ingress-controller]]
+• [[rbac-in-kubernetes]]

@@ -21,26 +21,27 @@ Example:
 ```bash
 -rwxr-x---
 ```
+
 ## Interpretation
 
-	•	user → rwx
-	•	group → r-x
-	•	others → no access
+    •	user → rwx
+    •	group → r-x
+    •	others → no access
 
 ## File vs directory
 
 Permissions behave differently:
-	•	file:
-	•	r → read content
-	•	w → modify content
-	•	x → execute
-	•	directory:
-	•	r → list files
-	•	w → create/delete files
-	•	x → traverse directory
+• file:
+• r → read content
+• w → modify content
+• x → execute
+• directory:
+• r → list files
+• w → create/delete files
+• x → traverse directory
 
 ## Related
 
-	•	[[linux-access-control]]
-	•	[[linux-octal-permissions]]
-	•	[[chmod]]
+    •	[[linux-access-control]]
+    •	[[linux-octal-permissions]]
+    •	[[chmod]]
