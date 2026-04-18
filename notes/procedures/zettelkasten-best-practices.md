@@ -15,6 +15,7 @@ Guidelines to maintain a clean, consistent, and usable Zettelkasten over time.
 - never rename files directly via CLI or Finder
 
 Why:
+
 - prevents broken links
 - keeps the graph consistent
 
@@ -60,6 +61,7 @@ Bad:
 ## Rule of thumb
 
 If a note is:
+
 - unclear → rewrite it
 - isolated → link it
 - too big → split it
