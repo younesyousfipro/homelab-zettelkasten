@@ -25,13 +25,14 @@ This was risky:
 
 Instead of being root all the time:
 
-```text
+````text
 user → sudo → root (temporary)
 ## Example
 
 ```bash
 sudo systemctl restart nginx
-```
+````
+
 Privileges are granted per command, not per session.
 
 # How it works
@@ -46,6 +47,7 @@ Privileges are granted per command, not per session.
 - improves auditability (who did what?)
 
 # Risks
+
 - misuse can lead to full system compromise
 - poorly configured sudo -> too much access
 
@@ -61,6 +63,6 @@ sudo = controlled bridge to root
 
 ## Related
 
-•	[[linux-access-control]]
-•	[[least-privilege-principle]]
-•	[[root-user]]
+• [[linux-access-control]]
+• [[least-privilege-principle]]
+• [[root-user]]

@@ -28,10 +28,10 @@ chmod [who][operator][permissions] file
 
 who
 
-	•	u → user (owner)
-	•	g → group
-	•	o → others
-	•	a → all (u + g + o)
+    •	u → user (owner)
+    •	g → group
+    •	o → others
+    •	a → all (u + g + o)
 
 operator
 
@@ -41,9 +41,9 @@ operator
 
 permissions
 
-	•	r → read
-	•	w → write
-	•	x → execute
+    •	r → read
+    •	w → write
+    •	x → execute
 
 ## Examples
 

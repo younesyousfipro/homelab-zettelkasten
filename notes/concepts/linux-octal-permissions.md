@@ -23,9 +23,9 @@ chmod 755 script.sh
 ## How it works
 
 Permissions are encoded using numbers based on binary addition:
-	•	read (r) = 4
-	•	write (w) = 2
-	•	execute (x) = 1
+• read (r) = 4
+• write (w) = 2
+• execute (x) = 1
 
 Each digit is the sum of these values.
 
@@ -51,26 +51,31 @@ An octal permission is composed of three digits:
 ```bash
 user | group | others
 ```
-Example:
+
+## Example:
+
 ```bash
 755
 ```
 
 Means:
-	•	user → 7 → rwx
-	•	group → 5 → r-x
-	•	others → 5 → r-x
+• user → 7 → rwx
+• group → 5 → r-x
+• others → 5 → r-x
 
 Equivalent symbolic form:
+
 ```bash
 rwxr-xr-x
 ```
-Common combinations
-	•	755 → executable files (scripts, binaries)
-	•	644 → standard files (readable by all, writable by owner)
-	•	700 → private files (owner only)
 
-Mental model
+## Common combinations
+
+• 755 → executable files (scripts, binaries)
+• 644 → standard files (readable by all, writable by owner)
+• 700 → private files (owner only)
+
+## Mental model
 
 Each digit defines permissions for a category:
 
@@ -80,6 +85,7 @@ Each digit defines permissions for a category:
 
 Each value is the sum of allowed actions.
 
-Related
-	•	[[linux-file-permissions]]
-	•	[[chmod]]
+## Related
+
+    •	[[linux-file-permissions]]
+    •	[[chmod]]
